@@ -22,7 +22,7 @@ The main website will be overhauled. We will participate in social networks.
 	In order to make people aware of our projects, we will actively engage in certain digital media. Primarily, we will use [LinkedIn](https://linkedin.com/company/unyt-org) to communicate topics regarding our association and the community (e.g. gatherings). Mastodon and [X (Twitter)](https://unyt.org/twitter) will constitute the less formal mediums for interacting with the community of developers. If this sounds like a fun activity to you, we happily invite you to join our public relations working group.
 
 # Development
-UIX loading times were significantly improved. We incorporated lots of bugfixes into DATEX Core JS and did some refactoring.
+UIX loading times were significantly improved. We incorporated multiple bugfixes into DATEX Core JS and did lots of refactoring.
 
 The new releases `UIX 0.2.x` and `DATEX 0.1.x` include breaking changes due to the new [ES6 Decorators](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/#decorators). We are now supporting the latest Deno version. Please make sure to migrate your projects!
 
