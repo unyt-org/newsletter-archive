@@ -31,6 +31,7 @@ The new releases `UIX 0.2.x` and `DATEX 0.1.x` include breaking changes due to t
 * Migrated to new decorators, now compatible with Deno v0.40.0+
 * Improved source map support for TypeScript files
 * Hybrid rendering does now support [early hydration](https://docs.unyt.org/manual/uix/rendering-methods#hybrid-rendering)
+* Added [minification and module preloading](https://github.com/unyt-org/uix/issues/102) to increase loading speed
 
 ## [DATEX](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:%3E=2024-02-01)
 * Migrated to new decorators, now compatible with Deno v0.40.0+
