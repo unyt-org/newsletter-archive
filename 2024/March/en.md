@@ -6,17 +6,28 @@ the last month's updates revolve around major compatibility and stability improv
 # Association
 The main website will be overhauled. We will participate in social networks. 
 
-- **The main website will be redesigned and overhauled.**
-  After intensive discussions and inputs from various members, we have decided on a tone for our public communication. We intend to efficiently convey what unyt.org's objectives are and how we attempt to turn them into a reality through the provision of tools and platforms we develop. The focus on our main website shall therefore shift away from ideology and activism towards a more hands-on and fact-based approach. As the community we are, we would like to point out the open and welcoming nature of our projects throughout all of our sites.
+- **The unyt.org e.V. is growing.**
+  
+	Over the last weeks 5 new members joined our association. Welcome on board!
 
-- **We will participate in social networks. Help is welcome.**
-  In order to make people aware of our projects, we will actively engage in certain digital media. Primarily, we will use LinkedIn to communicate topics regarding our association and the community (e.g. gatherings). Mastodon and Twitter will constitute the lesser formal mediums for interacting with the community of developers. We will thereby also react and comment on popular discussions where we think the unyt.org e.V. can contribute valuable perspectives to. If this sounds like a fun activity to you, we happily invite you to join our public relations working group.
+
+- **We are working on a homepage overhaul.**
+
+	After intensive discussions and inputs from various members, we have decided on a tone for our public communication. We intend to efficiently convey what unyt.org's objectives are and how we attempt to turn them into a reality through the provision of tools and platforms we develop. As the community we are, we would like to point out the open and welcoming nature of our projects throughout all of our sites.
+
+- **We are increasing our social media presence. Support is welcome!**
+
+	In order to make people aware of our projects, we will actively engage in certain digital media. Primarily, we will use [LinkedIn](https://linkedin.com/company/unyt-org) to communicate topics regarding our association and the community (e.g. gatherings). Mastodon and [X (Twitter)](https://unyt.org/twitter) will constitute the less formal mediums for interacting with the community of developers. If this sounds like a fun activity to you, we happily invite you to join our public relations working group.
 
 # Development
-UIX loading times were significantly improved. Compatibility with the latest Deno versions is ensured. Datex got a lot of code improvement refactoring and fixes.
+UIX loading times were significantly improved. We incorporated lots of bugfixes into DATEX Core JS and did some refactoring.
+
+The new releases `UIX 0.2.x` and `DATEX 0.1.x` include breaking changes due to the new [ES6 Decorators](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/#decorators). We are now supporting the latest Deno version. Please make sure to migrate your projects!
 
 ## UIX [↗](https://github.com/unyt-org/uix/pulls?q=is:closed%20created:%3E=2024-02-01)
-[... Devlog... ]
+* Migrated to new decorators, we are now compatible with Deno v0.40.0+
+* Improved source map support for TypeScript files
+* Hybrid rendering does not support early hydration
 
 ## DATEX [↗](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:%3E=2024-02-01)
 [... Devlog... ]
