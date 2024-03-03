@@ -54,4 +54,5 @@ We invite you to join our open meetings.
 We hope that our new communication channels spread awareness about our projects and that the association will grow and gain new valuable contributors. Thank you for being with us.
 
 Best regards
+
 Your unyt.org team
