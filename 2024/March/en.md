@@ -27,12 +27,12 @@ UIX loading times were significantly improved. We incorporated multiple bugfixes
 
 The new releases `UIX 0.2.x` and `DATEX 0.1.x` include breaking changes due to the new [ES6 Decorators](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/#decorators). We are now supporting the latest Deno version. Please make sure to migrate your projects!
 
-## UIX [↗](https://github.com/unyt-org/uix/pulls?q=is:closed%20created:%3E=2024-02-01)
+## [UIX](https://github.com/unyt-org/uix/pulls?q=is:closed%20created:%3E=2024-02-01)
 * Migrated to new decorators, now compatible with Deno v0.40.0+
 * Improved source map support for TypeScript files
 * Hybrid rendering does now support [early hydration](https://docs.unyt.org/manual/uix/rendering-methods#hybrid-rendering)
 
-## DATEX [↗](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:%3E=2024-02-01)
+## [DATEX](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:%3E=2024-02-01)
 * Migrated to new decorators, now compatible with Deno v0.40.0+
 * Introduced the new [SQL Storage](https://github.com/unyt-org/datex-core-js-legacy/pull/90) location for more efficient handling of large data
 * Added [match conditions](https://docs.unyt.org/manual/datex/storage-collections#match-conditions) for StorageCollections
