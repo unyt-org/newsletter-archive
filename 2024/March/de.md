@@ -54,7 +54,3 @@ Jeder ist eingeladen, an unseren öffentlichen Meetings teilzunehmen.
 ----------------
 
 Wir hoffen, dass unsere neuen Kommunikationskanäle die Reichweite unserer Projekte steigern und der Verein dadurch neue wertvolle Mitstreiter gewinnen kann. Vielen Dank, dass du dabei bist.
-
-Mit freundlichen Grüßen
-
-Das unyt.org-Team
