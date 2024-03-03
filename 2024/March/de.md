@@ -42,7 +42,7 @@ Die neuen Versionen `UIX 0.2.x` und `DATEX 0.1.x` enthalten Breaking Changes auf
 * Wichtige Bugfixes und Speicherverbesserungen
 
 # Andere Themen
-Der Kurs "Neue Web-Technologien" an der **TU Berlin**, der von Adrian Siebig als Dozent begleitet wurde, wurde am 14. Februar mit der Präsentation der UIX-Projektarbeit der Studenten abgeschlossen. Wir sind beeindruckt von den Ergebnissen, die die Kursteilnehmer erzielt haben und sind stolz darauf, dass die unyt.org-Projekte eine wichtige Rolle im Kurs gespielt haben.
+Der Kurs "Neue Web-Technologien" an der **TU Berlin**, der von Adrian Siebing als Dozent begleitet wurde, wurde am 14. Februar mit der Präsentation der UIX-Projektarbeit der Studenten abgeschlossen. Wir sind beeindruckt von den Ergebnissen, die die Kursteilnehmer erzielt haben und sind stolz darauf, dass die unyt.org-Projekte eine wichtige Rolle im Kurs gespielt haben.
 
 # Kommende Veranstaltungen 
 
