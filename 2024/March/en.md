@@ -46,8 +46,8 @@ The course "Neue Web-Technologien" at **TU Berlin**, which was accompanied by Ad
 
 We invite you to join our open meetings.
 
-**Weekly Developers Meeting:** Tuesdays, 8:00 pm CET.
-**Monthly Management Meeting:** March 05, 8:00 pm CET.
+* **Weekly Developers Meeting:** Tuesdays, 8:00 pm CET.
+* **Monthly Management Meeting:** March 05, 8:00 pm CET.
 
 ----------------
 
