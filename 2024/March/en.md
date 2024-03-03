@@ -8,7 +8,9 @@ The main website will be overhauled. We will participate in social networks.
 
 - **The unyt.org e.V. is growing.**
   
-	Over the last weeks 5 new members joined our association. Welcome on board!
+	Over the last weeks **5 new members** joined our association. Welcome on board!
+
+	You can apply for a membership [here](https://unyt.org/join).
 
 
 - **We are working on a homepage overhaul.**
