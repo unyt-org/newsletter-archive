@@ -7,9 +7,9 @@ die Updates des letzten Monats drehen sich um wichtige Kompatibilitäts- und Sta
 # Verein
 Wir verbessern unseren Webauftritt und erweitern unsere Präsenz in den sozialen Netzwerken. 
 
-- **Der unyt.org e.V. wächst.
+- **Der unyt.org e.V. wächst.**
   
-	Innerhalb der letzten Wochen konnten wir **5 neue Mitglieder** für unseren Verein gewinnen. Herzlich willkommen!
+    Innerhalb der letzten Wochen konnten wir **5 neue Mitglieder** für unseren Verein gewinnen. Herzlich willkommen!
 
     Den Mitgliedsantrag kann auf [unyt.org](https://unyt.org/join) gestellt werden.
 
@@ -33,6 +33,7 @@ Die neuen Versionen `UIX 0.2.x` und `DATEX 0.1.x` enthalten Breaking Changes auf
 * Migration auf die die neue Version der Decorator, jetzt kompatibel mit Deno v0.40.0+
 * Verbesserte Source-Map-Unterstützung für TypeScript-Dateien
 * Hybrid-Rendering unterstützt jetzt [early hydration](https://docs.unyt.org/manual/uix/rendering-methods#hybrid-rendering)
+* Einführung von [Minification und Module-Preloading](https://github.com/unyt-org/uix/issues/102) für optimiertes Laden
 
 # [DATEX](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:%3E=2024-02-01)
 * Migration auf die die neue Version der Decorator, jetzt kompatibel mit Deno v0.40.0+
