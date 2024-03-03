@@ -30,7 +30,9 @@ The new releases `UIX 0.2.x` and `DATEX 0.1.x` include breaking changes due to t
 * Hybrid rendering does not support early hydration
 
 ## DATEX [↗](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:%3E=2024-02-01)
-[... Devlog... ]
+* Introduced the new [SQL Storage](https://github.com/unyt-org/datex-core-js-legacy/pull/90) location for more efficient handling of large data
+* Added [match conditions](https://docs.unyt.org/manual/datex/storage-collections#match-conditions) for StorageCollections
+* Major bugfixes and memory improvements
 
 
 # Upcoming Events 
