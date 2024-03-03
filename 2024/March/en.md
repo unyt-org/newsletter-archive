@@ -40,7 +40,7 @@ The new releases `UIX 0.2.x` and `DATEX 0.1.x` include breaking changes due to t
 * Major bugfixes and memory improvements
 
 # Other topics
-The course "Neue Web-Technologien" at **TU Berlin**, which was accompanied by Adrian Siebig as a lecturer, was concluded on 14th of February with the presentation of the UIX project work of the students. We are impressed by the results achieved by the course participants and are proud of the fact that the unyt.org projects played a major role in the course.
+The course "Neue Web-Technologien" at **TU Berlin**, which was accompanied by Adrian Siebing as a lecturer, was concluded on 14th of February with the presentation of the UIX project work of the students. We are impressed by the results achieved by the course participants and are proud of the fact that the unyt.org projects played a major role in the course.
 
 # Upcoming Events 
 
