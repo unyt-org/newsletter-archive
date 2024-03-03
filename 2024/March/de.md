@@ -27,7 +27,7 @@ Wir verbessern unseren Webauftritt und erweitern unsere Präsenz in den sozialen
 # Entwicklung
 Die Ladezeiten von UIX wurden erheblich verbessert. Wir haben mehrere Bugfixes in DATEX Core JS eingearbeitet und zahlreiche Refactorings vorgenommen.
 
-Die neuen Versionen `UIX 0.2.x` und `DATEX 0.1.x` enthalten Breaking Changes aufgrund der neuen [ES6 Decorator] (https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/#decorators). Wir unterstützen jetzt die neueste Deno-Version. Bitte migriere deine Projekte!
+Die neuen Versionen `UIX 0.2.x` und `DATEX 0.1.x` enthalten Breaking Changes aufgrund der neuen [ES6 Decorator](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/#decorators). Wir unterstützen jetzt die neueste Deno-Version. Bitte migriere deine Projekte!
 
 ## [UIX](https://github.com/unyt-org/uix/pulls?q=is:closed%20created:%3E=2024-02-01)
 * Migration auf die die neue Version der Decorator, jetzt kompatibel mit Deno v0.40.0+
