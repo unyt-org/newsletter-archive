@@ -10,7 +10,7 @@ Wir haben einen Antrag auf finanzielle Unterstützung gestellt. Unser Discord Se
 
 - **Wir haben einen Antrag auf finanzielle Unterstützung gestellt.**
   
-    Nach wochenlanger Ausarbeitung der Details haben wir unseren Antrag für das Förderprogramm [TransformD](https://www.deutsche-stiftung-engagement-und-ehrenamt.de/foerderung/transformd/) der Deutschen Stiftung für Engagement und Ehrenamt eingereicht. Eine Bewilligung dieses Antrags würde uns erhebliche Mittel für den Ausbau und die Weiterentwicklung unseres Projekts unyt Auth zur Verfügung stellen. Wir erwarten eine Rückmeldung bis Ende Juni und halten dich auf dem Laufenden!
+    Nach wochenlanger Ausarbeitung der Details haben wir unseren Antrag für das Förderprogramm [transform_D](https://www.deutsche-stiftung-engagement-und-ehrenamt.de/foerderung/transformd/) der Deutschen Stiftung für Engagement und Ehrenamt eingereicht. Eine Bewilligung dieses Antrags würde uns erhebliche Mittel für den Ausbau und die Weiterentwicklung unseres Projekts unyt Auth zur Verfügung stellen. Wir erwarten eine Rückmeldung bis Ende Juni und halten dich auf dem Laufenden!
 
 
 - **Unser Discord Server wurde umstrukturiert.**
