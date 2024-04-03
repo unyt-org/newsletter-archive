@@ -39,4 +39,4 @@ We have refactored and enhanced our [example project collection](https://uix.uny
 We invite you to join our open meetings.
 
 * **Weekly Developers Meeting:** Tuesdays, 8:00 pm CET.
-* **Monthly Management Meeting:** May 02, 8:00 pm CEST.
+* **Monthly Management Meeting:** May 02, 8:00 pm CET.
