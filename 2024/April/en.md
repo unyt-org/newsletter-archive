@@ -23,6 +23,7 @@ We have refactored and enhanced our [example project collection](https://uix.uny
 ## [UIX](https://github.com/unyt-org/uix/pulls?q=is:closed%20created:%3E=2024-03-01)
 * Improved [module dependency loading](https://github.com/unyt-org/uix/issues/117) from our CDN
 * Eliminated [network errors](https://github.com/unyt-org/uix/issues/114) in dev console
+* Added reactivity to `UIX.Theme` properties to allow the handling of theme change and dark/light mode toggle
 * Enhanced our [documentation](https://docs.unyt.org) for UIX
 
 ## [DATEX](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:%3E=2024-03-01)
@@ -31,7 +32,7 @@ We have refactored and enhanced our [example project collection](https://uix.uny
 
 ## Other
 * Updated our public services ([relays](https://relay1.unyt.cc), [newsletter](https://newsletter.unyt.org), [blog](https://unyt.blog), [homepages](https://unyt.org), [unyt.land](https://unyt.land), [status](https://status.unyt.org) and [CDN](https://cdn.unyt.org)) to `UIX 0.2.x` and `DATEX 0.1.x`
-* Fixed `404` and `502` errors for the [unyt.org](https://unyt.org)-domain.
+* Fixed `404` and `502` errors for the [unyt.org](https://unyt.org)-domain
 
 # Upcoming Events 
 
