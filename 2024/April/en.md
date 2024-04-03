@@ -8,9 +8,9 @@ March kept us busy with some organizational topics.
 
 We applied for financial support. Our Discord Server has been restructured.
 
-- **We applied for financial support through transformD.**
+- **We applied for financial support through transform_D.**
   
-    After weeks of working out the details, we submitted our application for the [TransformD](https://www.deutsche-stiftung-engagement-und-ehrenamt.de/foerderung/transformd/) support program offered by the government-backed "Deutsche Stiftung für Engagement und Ehrenamt" organization. An accepted application would provide us with significant funds to expand and maturize our unyt Auth project. We expect feedback until end of June and keep you updated!
+    After weeks of working out the details, we submitted our application for the [transform_D](https://www.deutsche-stiftung-engagement-und-ehrenamt.de/foerderung/transformd/) support program offered by the government-backed "Deutsche Stiftung für Engagement und Ehrenamt" organization. An accepted application would provide us with significant funds to expand and maturize our unyt Auth project. We expect feedback until end of June and keep you updated!
 
 
 - **Our Discord Server has been restructured.**
