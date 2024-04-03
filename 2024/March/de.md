@@ -48,7 +48,7 @@ Der Kurs "Neue Web-Technologien" an der **TU Berlin**, der von Adrian Siebing al
 
 Jeder ist eingeladen, an unseren öffentlichen Meetings teilzunehmen.
 
-* **Wöchentliches Entwickler-Meeting:** Dienstags, 20:00 Uhr CET.
+* **Wöchentliches Entwickler-Meeting:** Dienstags, 20:00 Uhr MEZ.
 * **Monatliches Management-Meeting:** 05. März, 20:00 Uhr MEZ.
 
 ----------------
