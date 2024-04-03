@@ -33,8 +33,3 @@ We invite you to join our open meetings.
 
 * **Weekly Developers Meeting:** Tuesdays, 8:00 pm CET.
 * **Monthly Management Meeting:** May 02, 8:00 pm CEST.
-
-----------------
-
-Best Regards,
-the unyt.org Team
