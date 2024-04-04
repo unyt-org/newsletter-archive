@@ -32,7 +32,7 @@ We are on our way to the DATEX stable release. Lots of bug fixes and stability i
 * Hydration improvements and support for hybrid backend/frontend rendering
 * Major reduction of TypeScript linting errors
 
-## DATEX
+## [DATEX](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:%3E=2024-01-01)
 * Cross network multi-threading with [compute clusters](https://docs.unyt.org/manual/datex/threads#compute-clusters) 
 * Experimental support for [protected pointers](https://docs.unyt.org/manual/datex/pointer-synchronisation#protecting-pointers) and read/write permissions
 * Support for BigInt, Symbol and WeakRef
