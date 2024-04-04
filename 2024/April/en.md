@@ -6,25 +6,26 @@ March kept us busy with some organizational topics.
 
 # Association
 
-We applied for financial support. Our Discord Server has been restructured.
+We applied for a funding program. Our Discord server was converted to a Community Server.
 
-- **We applied for financial support through transform_D.**
+- **We applied for the transform_D funding program.**
   
-    After weeks of working out the details, we submitted our application for the [transform_D](https://www.deutsche-stiftung-engagement-und-ehrenamt.de/foerderung/transformd/) support program offered by the government-backed "Deutsche Stiftung für Engagement und Ehrenamt" organization. An accepted application would provide us with significant funds to expand and maturize our unyt Auth project. We expect feedback until end of June and keep you updated!
+    After weeks of working out the details, we submitted our application for the [transform_D](https://www.deutsche-stiftung-engagement-und-ehrenamt.de/foerderung/transformd/) support program offered by the government-backed "Deutsche Stiftung für Engagement und Ehrenamt" organization. An accepted application would provide us with significant funds to expand and maturize our unyt Auth project. We expect feedback until end of June and will keep you updated!
 
 
 - **Our Discord Server has been restructured.**
 
-    As our community continues to grow, we decided to restructure our Discord server. The support channel has been upgraded to a forum. Upcoming events, relevant channels and members can now be found right from the channel list.
+    As our community continues to grow, we decided to convert our Discord server to a "Community Server", which allowed us to enable many new useful features.
+  The support channel has been upgraded to a forum. Upcoming events, relevant channels and members can now be found right from the channel list.
 
 # Development
-We have refactored and enhanced our [example project collection](https://uix.unyt.org/templates). We have updated our [CDN](https://cdn.unyt.org) to significantly improve loading times.
+We have refactored and enhanced our [example project collection](https://uix.unyt.org/templates). We also updated our [CDN](https://cdn.unyt.org) to improve loading times significantly.
 
 ## [UIX](https://github.com/unyt-org/uix/pulls?q=is:closed%20created:%3E=2024-03-01)
-* Improved [module dependency loading](https://github.com/unyt-org/uix/issues/117) from our CDN
-* Eliminated [network errors](https://github.com/unyt-org/uix/issues/114) in dev console
+* Improved [module dependency loading](https://github.com/unyt-org/uix/issues/117) from unyt.org CDNs
+* Eliminated [network errors](https://github.com/unyt-org/uix/issues/114) in the browser dev console
 * Added reactivity to `UIX.Theme` properties to allow the handling of theme change and dark/light mode toggle
-* Enhanced our [documentation](https://docs.unyt.org) for UIX
+* Updated and extended our [documentation](https://docs.unyt.org) for UIX
 
 ## [DATEX](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:%3E=2024-03-01)
 * Added support for [MediaStreams via WebRTC](https://github.com/unyt-org/datex-core-js-legacy/pull/93)
