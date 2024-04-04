@@ -35,7 +35,7 @@ Die neuen Versionen `UIX 0.2.x` und `DATEX 0.1.x` enthalten Breaking Changes auf
 * Hybrid-Rendering unterstützt jetzt [early hydration](https://docs.unyt.org/manual/uix/rendering-methods#hybrid-rendering)
 * Einführung von [Minification und Module-Preloading](https://github.com/unyt-org/uix/issues/102) für optimiertes Laden
 
-# [DATEX](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:%3E=2024-02-01)
+## [DATEX](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:%3E=2024-02-01)
 * Migration auf die die neue Version der Decorator, jetzt kompatibel mit Deno v0.40.0+
 * Einführung des neuen [SQL Storage](https://github.com/unyt-org/datex-core-js-legacy/pull/90) für eine effizientere Handhabung von großen Daten
 * Einführung von [match conditions](https://docs.unyt.org/manual/datex/storage-collections#match-conditions) für StorageCollections
