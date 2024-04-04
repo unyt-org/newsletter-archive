@@ -27,7 +27,7 @@ The **unyt.org e.V.** is now officially registered. Donations are possible. Memb
 # Development
 We are on our way to the DATEX stable release. Lots of bug fixes and stability improvements were incorporated into UIX, DATEX and unyt Auth.
 
-## UIX
+## [UIX](https://github.com/unyt-org/uix/pulls?q=is:closed%20created:%3E=2024-01-01)
 * Support for scoped styles with the [stylesheet attribute](https://docs.unyt.org/manual/uix/style-and-themes#element-scoped-styles)
 * Hydration improvements and support for hybrid backend/frontend rendering
 * Major reduction of TypeScript linting errors
