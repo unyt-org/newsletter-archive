@@ -19,8 +19,8 @@ The website is being overhauled. Video tutorials for UIX are in the making.
 - **There will be an upcoming video tutorial series about UIX.**
 
   This series will be geared towards beginners to intermediates in the area of reactive web development.
-  Showing the live development of exemplary projects, they will not only teach core concepts of the DATEX
-  and UIX projects but they will furthermore focus on the application of these technologies.
+  Showing the live development of exemplary projects, it will not only teach core concepts of the DATEX
+  and UIX projects but it will furthermore focus on the real-world application of these technologies.
 
 # Development
 SUMMARY
