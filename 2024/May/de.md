@@ -9,7 +9,7 @@ Wir überholen unsere Website. Video-Tutorials für UIX sind in Arbeit.
 
 - **Die Überarbeitung unserer Website ist im Gange.**
 
-  Wir beabsichtigen, die unyt.org Homepage neu zu strukturieren, um unsere Ziele klarer zu kommunizieren. Dabei sollen unter anderem auch die Mitglieder unseres Teams vorgestellt werden, um den unyt.org e.V. und unsere Projekte besser zugänglich zu machen.
+  Wir beabsichtigen, die [unyt.org](https://unyt.org) Homepage neu zu strukturieren, um unsere Ziele klarer zu kommunizieren. Dabei sollen unter anderem auch die Mitglieder unseres Teams vorgestellt werden, um den unyt.org e.V. und unsere Projekte besser zugänglich zu machen.
 
 - **Demnächst wird es eine Video-Tutorial-Serie über UIX geben.**
 
