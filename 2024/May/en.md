@@ -2,7 +2,7 @@
 
 Dear readers,
 
-the past month brought improvements to our project documentations, minor changes to DATEX and
+the past month brought improvements to our project documentations, minor changes to DATEX and UIX and
 ongoing efforts in our communication strategy.
 
 # Association
@@ -22,17 +22,24 @@ The website is being overhauled. Video tutorials for UIX are in the making.
   Showing the live development of exemplary projects, it will not only teach core concepts of the DATEX
   and UIX projects but it will furthermore focus on the real-world application of these technologies.
 
+- **We got active on social media.**
+
+  We started to get more active on [X (Twitter)](https://twitter.com/unytorg) and [Mastodon](https://mastodon.social/@unyt). Feel free to follow our channels!
+
 # Development
-SUMMARY
+Over the past month, we have been working intensively on improving and expanding our project documentation on [docs.unyt.org](https://docs.unyt.org). We were able to fix many bugs and thus improve overall stability of UIX and DATEX.
 
 ## [UIX](https://github.com/unyt-org/uix/pulls?q=is:closed%20created:%3E=2024-04-01)
-* CHANGE
+* Added documentation for observing [theme and mode changes](https://docs.unyt.org/manual/uix/style-and-themes#observing-theme-and-mode-changes)
+* Fixed broken third-party dependency in `UIX 0.2.4`
+* Fixed issue that prevented search engines from indexing sites (introduced with `UIX 0.2.1`)
+* Support for typesafe JSON API similar to REST *(part of next minor release)*
 
 ## [DATEX](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:%3E=2024-04-01)
-* CHANGE
+* Major improvements in usage and and validation of [structs](https://docs.unyt.org/manual/datex/classes#datex-compatible-classes)
 
 ## Other
-* CHANGE
+* [unyt.land](https://unyt.land) got support for module imports from [JSR](https://jsr.io). With our CDN you can use TypeScript modules from common sources such as deno.land, JSR or GitHub directly in the browser without a compile step.
 
 # Upcoming Events 
 
