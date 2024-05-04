@@ -27,19 +27,19 @@ The website is being overhauled. Video tutorials for UIX are in the making.
   We started to get more active on [X (Twitter)](https://twitter.com/unytorg) and [Mastodon](https://mastodon.social/@unyt). Feel free to follow our channels!
 
 # Development
-Over the past month, we have been working intensively on improving and expanding our project documentation on [docs.unyt.org](https://docs.unyt.org). We were able to fix many bugs and thus improve overall stability of UIX and DATEX.
+Over the past month, we have been intensively working on improving and expanding our project documentation on [docs.unyt.org](https://docs.unyt.org). We were able to fix many bugs and thus improve overall stability of UIX and DATEX.
 
 ## [UIX](https://github.com/unyt-org/uix/pulls?q=is:closed%20created:%3E=2024-04-01)
 * Added documentation for observing [theme and mode changes](https://docs.unyt.org/manual/uix/style-and-themes#observing-theme-and-mode-changes)
-* Fixed broken third-party dependency in `UIX 0.2.4`
 * Fixed issue that prevented search engines from indexing sites (introduced with `UIX 0.2.1`)
-* Support for typesafe JSON API similar to REST *(part of next minor release)*
+* Ongoing work on utility functions for creating REST API endpoints with UIX *(part of next minor release)*
+* Fixed issue with a third-party dependency in `UIX 0.2.4`
 
 ## [DATEX](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:%3E=2024-04-01)
 * Major improvements in usage and and validation of [structs](https://docs.unyt.org/manual/datex/classes#datex-compatible-classes)
 
 ## Other
-* [unyt.land](https://unyt.land) got support for module imports from [JSR](https://jsr.io). With our CDN you can use TypeScript modules from common sources such as deno.land, JSR or GitHub directly in the browser without a compile step.
+* [unyt.land](https://unyt.land) now supports module imports from the new [JSR registry](https://jsr.io). The unyt.land CDN allows you to use TypeScript modules from common sources such as deno.land or GitHub directly in the browser without a compile step.
 
 # Upcoming Events 
 
