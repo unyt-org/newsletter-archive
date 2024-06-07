@@ -29,7 +29,7 @@ Zukünftig wird unyt Auth die Account-Validierung für natürliche Personen und 
 schnelle und manipulationssichere Alternative zu kostspieligen Know-Your-Customer (KYC)-Prozessen anbieten.
 
 # Entwicklung
-SUMMARY
+Im letzten Monat haben wir an der Verbesserung unserer Projektdokumentation auf [docs.unyt.org](https://docs.unyt.org) gearbeitet und viele Bugs behoben, um die allgemeine Stabilität von UIX und DATEX zu verbessern.
 
 ## [UIX](https://github.com/unyt-org/uix/pulls?q=is:closed%20created:%3E=2024-05-01)
 * CHANGE
