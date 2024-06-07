@@ -37,7 +37,7 @@ For the last few months we have been working on improving our project documentat
 * CHANGE
 
 ## Other
-* CHANGE
+* We started working on the unyt Auth project to provide a decentralized flexible authentication mechanism for the UIX@0.2.x version.
 
 # Upcoming Events 
 
