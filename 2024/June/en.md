@@ -28,7 +28,7 @@ In the future, unyt Auth will support account validation for natural persons and
 fast and tamper-proof alternative to costly Know-Your-Customer (KYC) processes.
 
 # Development
-In the last month, we have been working on improving our project documentation on [docs.unyt.org](https://docs.unyt.org) and fixing many bugs to improve overall stability of UIX and DATEX.
+For the last few months we have been working on improving our project documentation on [docs.unyt.org](https://docs.unyt.org) and fixing many bugs to improve the overall stability of UIX and DATEX.
 
 ## [UIX](https://github.com/unyt-org/uix/pulls?q=is:closed%20created:%3E=2024-05-01)
 * CHANGE
