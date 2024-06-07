@@ -36,7 +36,7 @@ Im letzten Monat haben wir an der Verbesserung unserer Projektdokumentation auf 
 * Verbesserung der UIX Session Handling Logik auf der Serverseite, um verifizierte und vertrauenswürdige Endpoint-Kommunikation zu ermöglichen
 
 ## [DATEX](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:%3E=2024-05-01)
-* Die [match](https://docs.unyt.org/manual/datex/storage-collections#pattern-matching) Methode wurde für [StorageSets](https://docs.unyt.org/manual/datex/storage-collections#storagesets) eingeführt
+* Die [match](https://docs.unyt.org/manual/datex/storage-collections#pattern-matching) Methode wurde für [StorageMaps](https://docs.unyt.org/manual/datex/storage-collections#storagemaps) eingeführt
 
 ## Sonstiges
 * Entwicklung von unyt Auth, um einen dezentralen, flexiblen Authentifizierungsmechanismus für UIX@0.2.x bereitzustellen
