@@ -43,5 +43,5 @@ SUMMARY
 
 We invite you to join our open meetings.
 
-* **Weekly Developers Meeting:** Tuesdays, 8:00 pm CET.
-* **Monthly Management Meeting:** Tuesday, July 02, 8:00 pm CET.
+* **Weekly Developers Meeting:** Tuesdays, 8:00 pm CEST.
+* **Monthly Management Meeting:** Tuesday, July 02, 8:00 pm CEST.
