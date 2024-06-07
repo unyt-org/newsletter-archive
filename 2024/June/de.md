@@ -1,4 +1,4 @@
-# June 2024
+# Juni 2024
 
 Liebe Leser,
 
