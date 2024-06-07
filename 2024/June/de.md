@@ -37,12 +37,12 @@ SUMMARY
 ## [DATEX](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:%3E=2024-05-01)
 * CHANGE
 
-## Other
+## Sonstiges
 * CHANGE
 
 # Kommende Veranstaltungen 
 
 Jeder ist eingeladen, an unseren öffentlichen Meetings teilzunehmen.
 
-* **Weekly Developers Meeting:** Dienstags, 8:00 pm MESZ.
-* **Monthly Management Meeting:** 02. Juli, 8:00 pm MESZ.
+* **Wöchentliches Entwickler-Meeting:** Dienstags, 8:00 pm MESZ.
+* **Monatliches Management-Meeting:** 02. Juli, 8:00 pm MESZ.
