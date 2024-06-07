@@ -38,7 +38,7 @@ Im letzten Monat haben wir an der Verbesserung unserer Projektdokumentation auf 
 * CHANGE
 
 ## Sonstiges
-* CHANGE
+* Entwicklung von unyt Auth, um einen dezentralen, flexiblen Authentifizierungsmechanismus für UIX@0.2.x bereitzustellen.
 
 # Kommende Veranstaltungen 
 
