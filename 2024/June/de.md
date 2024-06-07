@@ -39,7 +39,7 @@ Im letzten Monat haben wir an der Verbesserung unserer Projektdokumentation auf 
 * Die [match](https://docs.unyt.org/manual/datex/storage-collections#pattern-matching) Methode wurde für [StorageSets](https://docs.unyt.org/manual/datex/storage-collections#storagesets) eingeführt
 
 ## Sonstiges
-* Entwicklung von unyt Auth, um einen dezentralen, flexiblen Authentifizierungsmechanismus für UIX@0.2.x bereitzustellen.
+* Entwicklung von unyt Auth, um einen dezentralen, flexiblen Authentifizierungsmechanismus für UIX@0.2.x bereitzustellen
 
 # Kommende Veranstaltungen 
 
