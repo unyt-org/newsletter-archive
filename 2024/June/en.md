@@ -31,7 +31,7 @@ fast and tamper-proof alternative to costly Know-Your-Customer (KYC) processes.
 For the last few months we have been working on improving our project documentation on [docs.unyt.org](https://docs.unyt.org) and fixing many bugs to improve the overall stability of UIX and DATEX.
 
 ## [UIX](https://github.com/unyt-org/uix/pulls?q=is:closed%20created:%3E=2024-05-01)
-* Initial work on a improved error handling system to allow for better developer experience. The user shall be provided with information about error stack, reason and steps to resolve the issue *(WIP)*
+* Initial work on an improved error handling system to allow for better developer experience. The user shall be provided with information about error stack, reason and steps to resolve the issue *(WIP)*
 * Improvement of UIX session handling logic on the server to allow for verified and trusted endpoint communication
 
 ## [DATEX](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:%3E=2024-05-01)
