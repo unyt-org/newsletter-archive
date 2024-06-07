@@ -32,10 +32,11 @@ schnelle und manipulationssichere Alternative zu kostspieligen Know-Your-Custome
 Im letzten Monat haben wir an der Verbesserung unserer Projektdokumentation auf [docs.unyt.org](https://docs.unyt.org) gearbeitet und viele Bugs behoben, um die allgemeine Stabilität von UIX und DATEX zu verbessern.
 
 ## [UIX](https://github.com/unyt-org/uix/pulls?q=is:closed%20created:%3E=2024-05-01)
-* CHANGE
+* Arbeiten an einem verbesserten Error-Handler, um die Fehlersuche für Entwickler zu vereinfachen. Der Benutzer soll Informationen über den Fehler-Stack, Grund und Schritte zur Behebung des Problems erhalten *(WIP)*.
+* Verbesserung der UIX Session Handling Logik auf der Serverseite, um verifizierte und vertrauenswürdige Endpoint-Kommunikation zu ermöglichen
 
 ## [DATEX](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:%3E=2024-05-01)
-* CHANGE
+* Die [match](https://docs.unyt.org/manual/datex/storage-collections#pattern-matching) Methode wurde für [StorageSets](https://docs.unyt.org/manual/datex/storage-collections#storagesets) eingeführt
 
 ## Sonstiges
 * Entwicklung von unyt Auth, um einen dezentralen, flexiblen Authentifizierungsmechanismus für UIX@0.2.x bereitzustellen.
