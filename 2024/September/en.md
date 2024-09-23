@@ -17,6 +17,10 @@ the summer break has come to an end and significant progress was made with our d
 ## [DATEX](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:2024-08-01..2024-08-31)
 * DATEX is currently being migrated to be compatible with the Deno 2.0 version. Changes are currently ongoing, but will be completed soon. For furhter information you can find the migration guide of Deno [here](https://docs.deno.com/runtime/reference/migrate_deprecations/).
 
+## Other
+* The new installation scripts for Deno for UIX are available [here](https://github.com/unyt-org/uix-install)
+* A new version management and download mirror for [Deno for UIX](https://github.com/unyt-org/deno) can be found on [dl.unyt.org](https://dl.unyt.org)
+* We've released version 2.0 for the [UIX Docker Hosts](https://github.com/unyt-org/docker-host)
 
 # Upcoming Events 
 
