@@ -30,5 +30,5 @@ interconnection and web development. [More information here](https://startupsued
 
 We invite you to join our open meetings.
 
-* **Bi-Weekly Developers Meeting:** Every second and fourth tuesday a month, 8:00 pm CET.
-* **Monthly Management Meeting:** October 01, 8:00 pm CET.
+* **Bi-Weekly Developers Meeting:** Every second and fourth tuesday a month, 8:00 pm CET/CEST.
+* **Monthly Management Meeting:** October 01, 8:00 pm CET/CEST.
