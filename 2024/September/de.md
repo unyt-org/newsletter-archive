@@ -12,16 +12,13 @@ die neuen Benutzern als Starthilfe dienen können. Unsere [Dokumentation](https:
 Neugestaltungen *(siehe unten)* widerzuspiegeln.
 
 # Entwicklung
-ZUSAMMENFASSUNG
 
 ## [UIX](https://github.com/unyt-org/uix/pulls?q=is:closed%20created:2024-08-01..2024-08-31)
-* ÄNDERUNG
+* Wir stehen kurz vor dem Rollout der neuen Version `UIX@0.3.x`. Zum ersten Mal wird ein eigener [Deno for UIX](https://github.com/unyt-org/deno)-Build die herkömmliche Deno-Runtime ersetzen und die Integration von [JUSIX](https://github.com/unyt-org/jusix) wird die integrierte Reaktivität für JSX deutlich verbessern und damit die Anwendung enorm vereinfachen. Die Integration von Deno für UIX erfordert eine weitreichende Überarbeitung unserer [UIX-Dokumentation](https://docs.unyt.org), neue Installationsskripte und CI-Workflows, sowie umfangreiche Änderungen an den Deployment-Services und unserem CDN. Das offizielle Release-Date wird für Mitte Oktober erwartet und rechtzeitig auf unseren offiziellen Kanälen bekannt gegeben.
 
 ## [DATEX](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:2024-08-01..2024-08-31)
-* ÄNDERUNG
+* DATEX wird derzeit migriert, um mit `Deno 2.0` kompatibel zu sein. Die notwendigen Änderungen hierfür sind im Gange, dürften jedoch bald abgeschlossen sein. Mehr Informationen finden sich im [Migrationsleitfaden von Deno](https://docs.deno.com/runtime/reference/migrate_deprecations/).
 
-## Anderes
-* ÄNDERUNG
 
 # Kommende Veranstaltungen
 
@@ -32,4 +29,4 @@ von Datenschutz, Vernetzung und Webentwicklung ein! [Weitere Informationen hier]
 Jeder ist eingeladen, an unseren öffentlichen Meetings teilzunehmen.
 
 * **Zwei-Wöchentliches Entwickler-Meeting:** Jeden zweiten und vierten Dienstag im Monat, 20:00 Uhr MEZ/MESZ.
-* **Monatliches Management-Meeting:** 01. Oktober, 20:00 Uhr MEZ/MESZ.
+* **Monatliches Management-Meeting:** 08. Oktober, 20:00 Uhr MEZ/MESZ.
