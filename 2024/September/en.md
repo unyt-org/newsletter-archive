@@ -7,8 +7,8 @@ the summer break has come to an end and significant progress was made with our d
 # Association
 
 **The new Developer Experience Initiative is rolling.** Now, we will eventually be able to provide our users with long sought-after
-video tutorials. Members will produce diverting and informative content that new users can use as a starting guide. The documentation
-will be improved to reflect our recent technological redesigns (see below) and to be more intuitive.
+video tutorials. Members will produce diverting and informative content that new users can use as a starting guide. The [documentation](https://docs.unyt.org)
+will be improved to reflect our recent technological redesigns *(see below)* to be more intuitive.
 
 # Development
 SUMMARY
