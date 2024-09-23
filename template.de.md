@@ -4,7 +4,7 @@ GRUßFORMEL,
 
 EINLEITUNG
 
-# VEREIN
+# Verein
 
 ZUSAMMENFASSUNG
 
@@ -17,13 +17,13 @@ ZUSAMMENFASSUNG
 
   ABSATZ
 
-# ENTWICKLUNG
+# Entwicklung
 ZUSAMMENFASSUNG
 
-## [UIX](https://github.com/unyt-org/uix/pulls?q=is:closed%20created:%3E=JJJJ-MM-01)
+## [UIX](https://github.com/unyt-org/uix/pulls?q=is:closed%20created:JJJJ-MM-01..JJJJ-MM-DD)
 * ÄNDERUNG
 
-## [DATEX](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:%3E=JJJJ-MM-01)
+## [DATEX](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:JJJJ-MM-01..JJJJ-MM-DD)
 * ÄNDERUNG
 
 ## Anderes
@@ -33,5 +33,5 @@ ZUSAMMENFASSUNG
 
 Jeder ist eingeladen, an unseren öffentlichen Meetings teilzunehmen.
 
-* **Wöchentliches Entwickler-Meeting:** Dienstags, 8:00 pm CET.
-* **Monatliches Management-Meeting:** DATUM, 8:00 pm CET.
+* **Zwei-Wöchentliches Entwickler-Meeting:** Jeden zweiten und vierten Dienstag im Monat, 20:00 Uhr MEZ/MESZ.
+* **Monatliches Management-Meeting:** DATUM, 20:00 Uhr MEZ/MESZ.
