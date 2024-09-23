@@ -14,7 +14,8 @@ will be improved to reflect our recent technological redesigns *(see below)* to 
 SUMMARY
 
 ## [UIX](https://github.com/unyt-org/uix/pulls?q=is:closed%20created:2024-08-01..2024-08-31)
-* CHANGE
+* We are currently on the verge of rolling out the new `UIX@0.3.x` version. For the first time, a custom [Deno for UIX build](https://github.com/unyt-org/deno) will replace the standard [Deno](https://deno.com) runtime and the integration of [JUSIX](https://github.com/unyt-org/jusix) will significantly improve the integrated reactivity for JSX, making it easier to use. The integration of **Deno for UIX** requires a far-reaching revision of our UIX documentation, new installation scripts and CI workflows and extensive changes to deployment services and our CDN. The official release date is expected to be mid-October and will be announced in advance on our official channels.
+
 
 ## [DATEX](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:2024-08-01..2024-08-31)
 * CHANGE
