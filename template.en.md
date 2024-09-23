@@ -20,10 +20,10 @@ SUMMARY
 # Development
 SUMMARY
 
-## [UIX](https://github.com/unyt-org/uix/pulls?q=is:closed%20created:%3E=YYYY-MM-01)
+## [UIX](https://github.com/unyt-org/uix/pulls?q=is:closed%20created:YYYY-MM-01..YYYY-MM-DD)
 * CHANGE
 
-## [DATEX](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:%3E=YYYY-MM-01)
+## [DATEX](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:YYYY-MM-01..YYYY-MM-DD)
 * CHANGE
 
 ## Other
@@ -33,5 +33,5 @@ SUMMARY
 
 We invite you to join our open meetings.
 
-* **Weekly Developers Meeting:** Tuesdays, 8:00 pm CET.
-* **Monthly Management Meeting:** DATE, 8:00 pm CET.
+* **Bi-Weekly Developers Meeting:** Every second and fourth tuesday a month, 8:00 pm CET/CEST.
+* **Monthly Management Meeting:** DATE, 8:00 pm CET/CEST.
