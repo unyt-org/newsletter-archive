@@ -8,8 +8,8 @@ die Sommerpause ist zu Ende und bei unserer Strategie zur Verbesserung der Entwi
 
 **Die neue Entwicklererfahrungs-Initiative ist in vollem Gange.** In absehbarer Zeit werden wir unseren Benutzern endlich die lang ersehnten
 Video-Tutorials zur Verfügung stellen können. Vereinsmitglieder werden unterhaltsame und informative Inhalte erstellen,
-die neuen Benutzern als Starthilfe dienen können. Die Dokumentation wird verbessert, um unsere jüngsten technologischen
-Neugestaltungen (siehe unten) widerzuspiegeln und intuitiver zu sein.
+die neuen Benutzern als Starthilfe dienen können. Unsere [Dokumentation](https://docs.unyt.org) für UIX und DATEX wird aktuell verbessert, um unsere jüngsten technologischen
+Neugestaltungen *(siehe unten)* widerzuspiegeln.
 
 # Entwicklung
 ZUSAMMENFASSUNG
