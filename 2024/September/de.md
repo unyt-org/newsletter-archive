@@ -27,7 +27,7 @@ Neugestaltungen *(siehe unten)* widerzuspiegeln.
 # Kommende Veranstaltungen
 
 ## unyt.org beim [StartupSÜD Summit](https://startupsued.de/summit/)!
-Die Veranstaltung findet am 10. Oktober in Ulm statt. Herzlich laden wir zu Gesprächen mit unseren Mitgliedern über die Zukunft
+Die Veranstaltung findet am 10. Oktober in der Universität Ulm statt. Herzlich laden wir zu Gesprächen mit unseren Mitgliedern über die Zukunft
 von Datenschutz, Vernetzung und Webentwicklung ein! [Weitere Informationen hier](https://startupsued.de/summit/).
 
 Jeder ist eingeladen, an unseren öffentlichen Meetings teilzunehmen.
