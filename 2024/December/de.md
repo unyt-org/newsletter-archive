@@ -34,9 +34,9 @@ Hauptsächlich wurden Vorkehrungen zur Entwicklung des DATEX Rust Core getroffen
 
 # Kommende Veranstaltungen
 
-Unsere **jährliche Mitgliedervollversammlung** findet am Dienstag, den 07. Januar 19:00 Uhr, statt. Weitere Informationen zur Teilnahme werden über verschiedene Kanäle kommuniziert.
+Unsere **jährliche Mitgliedervollversammlung** findet am Dienstag, den 07. Januar statt. Die offizielle Einladung an alle Vereinsmitglieder erfolgt bis Ende dieser Woche.
 
-Wir laden herzlich dazu ein, an unseren offenen Meetings teilzunehmen:
+Wir laden außerdem herzlich dazu ein, an unseren offenen Meetings teilzunehmen:
 
 * **Zwei-Wöchentliche Entwickler-Meeting:** Jeden ersten und dritten Dienstag im Monat, 20:00 Uhr MEZ/MESZ.
 * **Monatliches Management-Meeting:** Dienstag, 07. Januar, 20:00 Uhr MEZ/MESZ.
