@@ -4,6 +4,8 @@ Liebe Freunde des unyt.org e.V.,
 
 während die letzten Wochen dieses Jahres vergehen, blicken wir auf die Herausforderungen und Erfolge zurück, die wir im Jahr 2024 erlebt haben. Nachdem die umfangreiche Entwickler-Erfahrungs-Initiative zahlreiche Ergebnisse in Bezug auf Benutzerfreundlichkeit und Zuverlässigkeit hervorgebracht hat, richten wir unseren Fokus nun für das neue Jahr auf ein anderes, wenngleich anverwandtes, Gebiet.
 
+Im Namen des gesamten unyt.org Teams wünschen wir schöne Feiertage und einen guten Rutsch ins neue Jahr!
+
 # Verein
 
 Unsere Ziele für das erste Quartal 2025 sind gesetzt. Formelle Dokumente erhalten ein neues Zuhause.
@@ -31,6 +33,7 @@ Hauptsächlich wurden Vorkehrungen zur Entwicklung des DATEX Rust Core getroffen
 ## [DATEX](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:2024-11-01..2024-11-30)
 * Reaktive `filter()`-Funktion optimiert
 * Stabilitätsverbesserungen und Bugfixes
+
 
 # Kommende Veranstaltungen
 
