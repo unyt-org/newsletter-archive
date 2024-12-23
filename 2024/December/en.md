@@ -2,11 +2,9 @@
 
 Dear friends of the unyt.org e.V.,
 
-as the last weeks of this year are passing, we are recapping
-the challenges and successes we have seen in 2024. After the
-extensive Developer Experience Initiative has led to numerous
-results in convenience and reliability, we are now shifting our focus
-towards a different, albeit related, area.
+as the last weeks of this year are passing, we are recapping the challenges and successes we have seen in 2024. After the extensive Developer Experience Initiative has led to numerous results in convenience and reliability, we are now shifting our focus towards a different, albeit related, area.
+
+
 
 # Association
 
