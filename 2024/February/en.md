@@ -1,3 +1,5 @@
+# February 2024
+
 Dear friends of the **unyt.org e.V.**,
 
 this message constitutes the first issue of our newly introduced monthly newsletter. It is my pleasure to announce it as a carrier of information about the association's developer tools - namely UIX and DATEX - as well as the unyt.org e.V. itself, releasing it on a regular basis at the beginning of each month.
