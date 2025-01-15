@@ -19,7 +19,7 @@ presentations can be found [here](https://github.com/unyt-org/administration-pub
   report for 2024 indicated, we are almost able to cover our
   running costs solely with our membership fees. In 2025, we should
   reach the threshold where the association is self-sustaining
-  exclusively through its membership fees.
+  exclusively through these fees.
 
 - **Video by YouTuber Loris Galler**
 
@@ -53,5 +53,5 @@ presentations can be found [here](https://github.com/unyt-org/administration-pub
 We invite you to join our open meetings.
 
 * **Bi-Weekly Developers Meeting:** Every first and third tuesday a month, 8:00 pm CET/CEST.
-* **Weekly DATEX Spec Talk:** Every monday 8:00 pm CET/CEST.
+* **Weekly DATEX Spec Talk:** Every monday, 8:00 pm CET/CEST.
 * **Monthly Management Meeting:** February 04, 8:00 pm CET/CEST.
