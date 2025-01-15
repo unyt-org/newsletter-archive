@@ -24,6 +24,7 @@ Unsere Jahresvollversammlung fand am 07. Januar statt. Das Protokoll und die daz
   ist ein Muss.
 
 - **Recap Article für 2024**
+  
   Wir haben einen neuen [Artikel]() in unserem Blog veröffentlicht, in dem wir ausführlicher auf die Erfolge des letzten Jahres eingehen und auch einen kurzen Ausblick für 2025 geben.
 
 # Entwicklung
