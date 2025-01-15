@@ -23,21 +23,26 @@ Unsere Jahresvollversammlung fand am 07. Januar statt. Das Protokoll und die daz
   Sein Stil ist sehr unterhaltsam und gespickt mit Witzen, während er es alldieweil schafft, gleichzeitig informativ zu sein. Ein [Abonnement seines Kanals](https://www.youtube.com/@lorisgaller?sub_confirmation=1)
   ist ein Muss.
 
+- **Recap Article für 2024**
+  Wir haben einen neuen [Artikel]() in unserem Blog veröffentlicht, in dem wir ausführlicher auf die Erfolge des letzten Jahres eingehen und auch einen kurzen Ausblick für 2025 geben.
+
 # Entwicklung
-ZUSAMMENFASSUNG
 
 ## [UIX](https://github.com/unyt-org/uix/pulls?q=is:closed%20created:2024-12-01..2024-12-31)
-* ÄNDERUNG
+- Bugfixes
+- Umstellung auf eine andere SWC-Implementierung mit besserer plattformübergreifender Unterstützung
+- Kleines Update für JUSIX
+- Verbesserungen für die `css`-Funktion, die für Inline-Stylesheets in UIX-Komponenten verwendet wird.
 
 ## [DATEX](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:2024-12-01..2024-12-31)
-* ÄNDERUNG
-
-## Anderes
-* ÄNDERUNG
+- Fortsetzung der Arbeit an der neuen DATEX-Spezifikation, hauptsächlich durch Aufräumen einiger alter Issues und Diskussionspunkte
+- Wiedereinführung des wöchentlichen DATEX-Spezifikationstreffens jeden Montag
+- Arbeit am neuen DATEX Rust Core und einem Demoprojekt von DATEX Rust für den ESP32
 
 # Kommende Veranstaltungen
 
 Jeder ist eingeladen, an unseren öffentlichen Meetings teilzunehmen.
 
 * **Zwei-Wöchentliches Entwickler-Meeting:** Jeden ersten und dritten Dienstag im Monat, 20:00 Uhr MEZ/MESZ.
+* **Wöchentlicher DATEX Spec Talk:** Jeden Montag, 20:00 Uhr MEZ/MESZ.
 * **Monatliches Management-Meeting:** 04. Februar, 20:00 Uhr MEZ/MESZ.
