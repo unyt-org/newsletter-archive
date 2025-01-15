@@ -1,6 +1,6 @@
 # The unyt.org [newsletter archive](https://newsletter.unyt.org/archive)
 
-📬 **Welcome to the Unyt.org newsletter archive!**
+📬 **Welcome to the unyt.org newsletter archive!**
 
 > [!NOTE]
 > Subscribe to our monthly newsletter at [newsletter.unyt.org](https://newsletter.unyt.org)
