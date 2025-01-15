@@ -34,4 +34,5 @@ SUMMARY
 We invite you to join our open meetings.
 
 * **Bi-Weekly Developers Meeting:** Every first and third tuesday a month, 8:00 pm CET/CEST.
+* **Weekly DATEX Spec Talk:** Every monday, 8:00 pm CET/CEST.
 * **Monthly Management Meeting:** DATE, 8:00 pm CET/CEST.
