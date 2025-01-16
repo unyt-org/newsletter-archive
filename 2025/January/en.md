@@ -32,7 +32,7 @@ presentations can be found [here](https://github.com/unyt-org/administration-pub
 
 - **Recap Article for 2024**
 
-  We published a new [article]() on our blog in which we talk in more detail about last year's achievements and also give a short outlook for 2025.
+  We published a new [article](https://unyt.blog/article/2025-01-16-the-year-2024-unyt-org-looks-back) on our blog in which we talk in more detail about last year's achievements and also give a short outlook for 2025.
 
 # Development
 
