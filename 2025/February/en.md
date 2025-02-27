@@ -22,11 +22,11 @@ credit/debit cards and Apple Pay through our payment providers.
 Apart from continuous maintenance bug fixes in UIX and DATEX, the new DATEX Core is under steady development
 and shows first fundamental functionalities.
 
-## [UIX](https://github.com/unyt-org/uix/pulls?q=is:closed%20created:YYYY-MM-01..YYYY-MM-DD)
+## [UIX](https://github.com/unyt-org/uix/pulls?q=is:closed%20created:2025-01-01..2025-02-01)
 * Load time optimizations for hybrid rendering
 * Minor bugfixes
 
-## [DATEX](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:YYYY-MM-01..YYYY-MM-DD)
+## [DATEX](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:2025-01-01..2025-02-01)
 * We have already been able to send and receive the first DATEX blocks with our new DATEX Rust Core development. This progress is a huge step forward and provides us with deep insights into development with Rust and WebAssembly (WASM).
 
 # Upcoming Events 
