@@ -23,10 +23,10 @@ Apart from continuous maintenance bug fixes in UIX and DATEX, the new DATEX Core
 and shows first fundamental functionalities.
 
 ## [UIX](https://github.com/unyt-org/uix/pulls?q=is:closed%20created:YYYY-MM-01..YYYY-MM-DD)
-* CHANGE
+* Minor bugfixes
 
 ## [DATEX](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:YYYY-MM-01..YYYY-MM-DD)
-* CHANGE
+* We have already been able to send and receive the first DATEX blocks with our new DATEX Rust Core development. This progress is a huge step forward and provides us with deep insights into development with Rust and WebAssembly (WASM).
 
 # Upcoming Events 
 
