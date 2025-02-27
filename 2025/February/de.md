@@ -18,11 +18,11 @@ Selbstredend wurde der Shop zu mithilfe unserer eigens entwickelten Werkzeugen, 
 Neben kontinuierlichen Wartungsfehlerbehebungen in UIX und DATEX wird der neue DATEX Core stetig weiterentwickelt
 und zeigt erste grundlegende Funktionalitäten.
 
-## [UIX](https://github.com/unyt-org/uix/pulls?q=is:closed%20created:JJJJ-MM-01..JJJJ-MM-DD)
+## [UIX](https://github.com/unyt-org/uix/pulls?q=is:closed%20created:2025-01-01..2025-02-01)
 * Ladezeit-Optimierungen für Hybrid Rendering
 * Kleinere Bugfixes
 
-## [DATEX](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:JJJJ-MM-01..JJJJ-MM-DD)
+## [DATEX](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:2025-01-01..2025-02-01)
 * Wir konnten mit unserer DATEX Rust Core Neuentwicklung bereits erste DATEX Blöcke senden und empfangen. Dieser Fortschritt ist ein gewaltiger Schritt nach vorn und eröffnet uns tiefgehende Einblicke in die Entwicklung mit Rust und WebAssembly (WASM).
 
 # Kommende Veranstaltungen
