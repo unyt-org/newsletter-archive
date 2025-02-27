@@ -12,7 +12,7 @@ unserer neuen Flaggschiff-Technologie DATEX Core erreicht.
 
 Auf [shop.unyt.org](https://shop.unyt.org) gibt es eine Vielzahl stylisher Merchandise-Produkte, die von Mitgliedern unseres Vereins entworfen wurden. Egal, ob man [durstig ist](https://shop.unyt.org/product/unyt-mug), seine [Liebe für unsere Technologien](https://shop.unyt.org/product/unyt-sweater) zeigen oder seine [Gefühle gegenüber Safari](https://shop.unyt.org/product/safari-homies) kanalisieren möchten – unser neuer Shop hat alles, was das Herz begehert.
 
-Selbstredend wurde der Shop zu mithilfe unserer eigens entwickelten Werkezeugen, namentlich UIX und DATEX entwickelt und unterstützt außerdem das Bezahlen via Kredit-/Debitkarten und Apple Pay über unsere Zahlungsanbieter.
+Selbstredend wurde der Shop zu mithilfe unserer eigens entwickelten Werkzeugen, namentlich UIX und DATEX entwickelt und unterstützt außerdem das Bezahlen via Kredit-/Debitkarten und Apple Pay über unsere Zahlungsanbieter.
 
 # Entwicklung
 Neben kontinuierlichen Wartungsfehlerbehebungen in UIX und DATEX wird der neue DATEX Core stetig weiterentwickelt
