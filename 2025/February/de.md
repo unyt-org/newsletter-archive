@@ -19,6 +19,7 @@ Neben kontinuierlichen Wartungsfehlerbehebungen in UIX und DATEX wird der neue D
 und zeigt erste grundlegende Funktionalitäten.
 
 ## [UIX](https://github.com/unyt-org/uix/pulls?q=is:closed%20created:JJJJ-MM-01..JJJJ-MM-DD)
+* Ladezeit-Optimierungen für Hybrid Rendering
 * Kleinere Bugfixes
 
 ## [DATEX](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:JJJJ-MM-01..JJJJ-MM-DD)
