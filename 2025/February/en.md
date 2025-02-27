@@ -23,6 +23,7 @@ Apart from continuous maintenance bug fixes in UIX and DATEX, the new DATEX Core
 and shows first fundamental functionalities.
 
 ## [UIX](https://github.com/unyt-org/uix/pulls?q=is:closed%20created:YYYY-MM-01..YYYY-MM-DD)
+* Load time optimizations for hybrid rendering
 * Minor bugfixes
 
 ## [DATEX](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:YYYY-MM-01..YYYY-MM-DD)
