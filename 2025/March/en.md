@@ -27,6 +27,12 @@ Our UIX platform has received a major upgrade with version 0.4! The development 
 - Our team meets regularly to work on fundamental protocol components, networking, and routing
 - We have refined our project structure to further enhance software quality
 
+## Ads, sorry: Support unyt.org – Check out our merchandise Shop!
+Did you know that you can support unyt.org while getting some awesome merch? Visit shop.unyt.org and explore a variety of stylish products designed by our community!
+
+❤️ Every purchase supports us and goes into funding the development of our open-source projects, including UIX and DATEX Core. By grabbing a hoodie, a mug, or even a sticker, you're helping us push forward innovation in open-source development.
+
+Check it out and show your support! 🚀
 
 # Upcoming Events 
 
