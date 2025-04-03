@@ -27,6 +27,13 @@ Unsere UIX-Plattform hat mit Version 0.4 ein bedeutendes Upgrade erhalten! Die A
 * Die Entwicklung von DATEX Core Rust geht kontinuierlich voran. Unser kleines, engagiertes Team trifft sich regelmäßig, um an den fundamentalen Protokollbestandteilen, Networking und Routing zu arbeiten
 * Wir haben unsere Projektstruktur verfeinert, um noch mehr Qualität in das Softwareprojekt zu bringen
 
+## Eigenwerbung, sorry - Schau in unserem Merchandise-Shop vorbei!
+Wusstest du, dass du den unyt.org e.V. unterstützen kannst und dabei coole Merchandise-Artikel bekommst? Besuche shop.unyt.org und entdecke eine Vielzahl stylischer Produkte!
+
+❤️ Jeder Kauf unterstützt uns direkt und fließt in die Entwicklung unserer Open-Source-Projekte, darunter UIX und DATEX Core. Mit dem Kauf eines Hoodie, einer Tasse oder Stickersets hilfst du uns, unsere Vision voranzutreiben.
+
+Schau gerne vorbei! 🚀
+
 # Kommende Veranstaltungen
 
 Jeder ist eingeladen, an unseren öffentlichen Meetings teilzunehmen.
