@@ -6,7 +6,7 @@ March has been another eventful month for unyt.org! We have made significant pro
 
 # Association
 
-**New Team Members****: We are excited to welcome two new faces to our team! Starting on April 7th, we will be offering our first multi-month internship, and we warmly welcome Marvin.
+**New Team Members**: We are excited to welcome two new faces to our team! Starting on April 7th, we will be offering our first multi-month internship, and we warmly welcome Marvin.
 Additionally, Dave is joining our team. We look forward to working with both of you!
 
 # Development
