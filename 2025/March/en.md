@@ -14,7 +14,7 @@ New Team MembersWe are excited to welcome two new faces to our team! Starting on
 Additionally, Dave is joining our team. We look forward to working with both of you!
 
 # Development
-Our UIX platform has received a major upgrade with version 0.4!
+Our UIX platform has received a major upgrade with version 0.4! The development of DATEX Core Rust is progressing well.
 
 ## [UIX](https://github.com/unyt-org/uix/pulls?q=is:closed%20created:2025-02-01..2024-03-31)
 
