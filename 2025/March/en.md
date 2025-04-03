@@ -2,7 +2,7 @@
 
 Dear Readers,
 
-March has been another eventful month for unyt.org! We have made significant progress in development, expanded our team, and released a major update with UIX 4. Here are the highlights:
+March has been another eventful month for unyt.org! We have made significant progress in development, expanded our team, and released a major update with UIX 0.4. Here are the highlights:
 
 # Association
 
