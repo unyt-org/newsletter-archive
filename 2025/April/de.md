@@ -21,7 +21,7 @@ Wir haben im April viele Verbesserungen an unserer Dokumentation auf docs.unyt.o
 * Bugfix für ein Problem, das durch den TypeScript-Compiler (TSC) verursacht wurde, wenn der UIX Projektpfad Leerzeichen enthält
 
 ## [DATEX](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:2025-04-01..2025-04-01)
-* Verbesserte Dokumentation für Storage Collections
+* Verbesserte Dokumentation für [Storage Collections](https://github.com/unyt-org/datex-core-js-legacy/blob/main/docs/manual/15%20Storage%20Collections.md)
 
 ## [DATEX (Rust)](https://github.com/unyt-org/datex-core)
 Wir konnten bedeutendende Fortschritte bei der Rust-Neuentwicklung des DATEX Cores erzielen:
