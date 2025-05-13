@@ -26,7 +26,7 @@ We made several enhancements to the documentation on docs.unyt.org to provide cl
 ## [DATEX](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:2025-04-01..2025-04-01)
 * Enhanced documentation for [Storage collections](https://github.com/unyt-org/datex-core-js-legacy/blob/main/docs/manual/15%20Storage%20Collections.md)
 
-## [DATEX (RUST)](https://github.com/unyt-org/datex-core)
+## [DATEX (Rust)](https://github.com/unyt-org/datex-core)
 * **First protocol send and routing logic is now functional!** This means we're able to send blocks across different channels (e.g. WebSocket and TCP), and the routing/redirecting mechanism - while still in early stages - is working. This is an exciting step toward building a faster, more robust core for DATEX.
 * Next goals:
   * Implementing DATEX Values and Pointers
