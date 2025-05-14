@@ -21,7 +21,7 @@ We made several enhancements to the documentation on docs.unyt.org to provide cl
 ## [UIX](https://github.com/unyt-org/uix/pulls?q=is:closed%20created:2025-04-01..2025-05-13)
 * Improved documentation on docs.unyt.org to provide clearer information on API usage and specific topics.
 * Enhanced structure and examples to better support new users and contributors.
-* Fixed a bug that was caused by [TSC](https://github.com/microsoft/TypeScript) when the UIX project contains spaces in it's path
+* Fixed a bug that was caused by [TSC](https://github.com/microsoft/TypeScript) when the UIX project contains spaces in its path
 
 ## [DATEX](https://github.com/unyt-org/datex-core-js-legacy/pulls?q=is:closed%20created:2025-04-01..2025-04-01)
 * Enhanced documentation for [Storage collections](https://github.com/unyt-org/datex-core-js-legacy/blob/main/docs/manual/15%20Storage%20Collections.md)
@@ -42,6 +42,6 @@ It uses unyt.org tools to enable students to develop their own extensive web app
 
 We invite you to join our open meetings.
 
-* **Bi-Weekly Developers Meeting:** Every first and third tuesday a month, 8:00 pm CET/CEST.
-* **Weekly DATEX Spec Talk:** Every monday, 8:00 pm CET/CEST.
-* **Monthly Management Meeting:** June 10, 8:00 pm CET/CEST.
+* **Bi-Weekly Developers Meeting:** Tuesdays on a biweekly schedule, 8:00 pm CEST.
+* **Weekly DATEX Spec Talk:** Every monday, 8:00 pm CET.
+* **Monthly Management Meeting:** June 10, 8:00 pm CET.
