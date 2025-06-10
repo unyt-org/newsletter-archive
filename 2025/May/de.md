@@ -2,7 +2,7 @@
 
 Liebe Leser,
 
-Wir haben große Fortschritte gemacht und freuen uns, die Veröffentlichung unserer brandneuen Homepage unter [unyt.org](https://unyt.org) bekannt zu geben!
+wir haben große Fortschritte gemacht und freuen uns, die Veröffentlichung unserer brandneuen Homepage unter [unyt.org](https://unyt.org) bekannt zu geben!
 Zusammen mit der kontinuierlichen Weiterentwicklung unseres DATEX Rust Core unternehmen wir nun große Schritte, um unseren Verein auf das angestrebte professionelle Niveau zu heben. Die Zukunft sieht vielversprechend aus – vielen Dank an alle, die dazu beigetragen haben.
 
 # Verein
@@ -21,8 +21,8 @@ Die Arbeiten an den DATEX-Routing-Mechanismen sind abgeschlossen – als Nächst
 * Die erste Version der neuen DATEX-Sprache ist bereits verfügbar. Wir können erste kleinere Skripte schreiben und sie in unserer [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) ausprobieren.
 
 ## [UIX](https://github.com/unyt-org/uix/pulls?q=is:closed%20created:2025-05-01..2025-05-31)
-* Das Wechsel zwischen dunklem und hellem Thema wurde repariert.
-* Funktion `RawHTML` eingeführt, um puren HTML-Code in Elemente einzufügen (ähnlich wie `dangerouslySetInnerHTML` in React).
+* Das Wechsel zwischen dunklem und hellem Theme wurde repariert.
+* Funktion `rawHTML` eingeführt, um puren HTML-Code in Elemente einzufügen (ähnlich wie `dangerouslySetInnerHTML` in React).
 * Weitere kleinere Fehlerbehebungen
 
 # Kommende Veranstaltungen
