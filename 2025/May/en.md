@@ -2,7 +2,7 @@
 
 Dear readers,
 
-we've made great progress and are delighted to announce the release of our all-new homepage at [unyt.org](https://unyt.org)!
+We've made great progress and are delighted to announce the release of our all-new homepage at [unyt.org](https://unyt.org)!
 Together with the ongoing development of our DATEX Rust Core we are taking great steps to elevate our association
 to the professional level we've been aiming at. The future looks bright – thank you to everyone who contributed.
 
@@ -26,7 +26,7 @@ Work on DATEX routing mechanisms has been finished – next up is the DATEX lang
 
 ## [UIX](https://github.com/unyt-org/uix/pulls?q=is:closed%20created:2025-05-01..2025-05-31)
 * Dark/Light theme switching has been fixed
-* Introduced `RawHTML` function support to inject plain HTML code into elements (similar to `dangerouslySetInnerHTML` in React)
+* Introduced `rawHTML` function support to inject plain HTML code into elements (similar to `dangerouslySetInnerHTML` in React)
 * Other smaller bugfixes
 
 # Upcoming Events 
