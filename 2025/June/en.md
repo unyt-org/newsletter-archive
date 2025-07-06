@@ -2,7 +2,7 @@
 
 Dear readers,
 
-in may we have made significant progress with the development of DATEX Core Rust (also known as DATEX v2).
+in June we have made significant progress with the development of DATEX Core Rust (also known as DATEX v2).
 Furthermore, we are delighted to welcome new interns to our association.
 
 # Association
