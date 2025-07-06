@@ -2,7 +2,7 @@
 
 Liebe Leser,
 
-Im Mai haben wir bei der Entwicklung des DATEX Core Rust (auch als DATEX v2 bezeichnet) bedeutende Fortschritte erzielt.
+Im Juni haben wir bei der Entwicklung des DATEX Core Rust (auch als DATEX v2 bezeichnet) bedeutende Fortschritte erzielt.
 Außerdem freuen wir uns, neue Praktikanten in unserem Verein begrüßen zu dürfen.
 
 # Verein
