@@ -2,7 +2,7 @@
 
 Liebe Leser,
 
-im Juli haben wir unsere Bemühungen bei der Entwicklung von DATEX Core Rust intensiviert und wichtige Milestones erreicht.
+im Juli haben wir unsere Bemühungen bei der Entwicklung von DATEX Core Rust intensiviert und wichtige Meilensteine erreicht.
 
 # Verein
 
@@ -17,8 +17,8 @@ Bewerbungen sind jederzeit möglich unter: [https://unyt.org/career](https://uny
 # Entwicklung
 
 Wir freuen uns, einen großen Meilenstein in der Entwicklung von DATEX Core Rust bekannt zu geben:  
-Am 5. August 2025 haben wir **den ersten DATEX 2.0-Block zwischen zwei entfernten Endpunkten übertragen**!  
-Der Block mit einer simplen „Hello world“-Nachricht wurde erfolgreich von einem Endpunkt in Deutschland zu einem Endpunkt in Griechenland gesendet, was das Potenzial unserer neuen DATEX-Core-Rust-Implementierung demonstriert und als erster Praxistest unserer Technologie dient.
+Am 5. August 2025 haben wir **den ersten DATEX 2.0-Block zwischen zwei entfernten Endpoints übertragen**!  
+Der Block mit einer simplen „Hello world“-Nachricht wurde erfolgreich von einem Endpoint in Deutschland zu einem Endpoint in Griechenland gesendet, was das Potenzial unserer neuen DATEX-Core-Rust-Implementierung demonstriert und als erster Praxistest unserer Technologie dient.
 
 Die neueste Version von DATEX Core Rust (v0.0.5) ist jetzt auf crates.io verfügbar.
 
