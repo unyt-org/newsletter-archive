@@ -33,6 +33,6 @@ ZUSAMMENFASSUNG
 
 Jeder ist eingeladen, an unseren öffentlichen Meetings teilzunehmen.
 
-* **Zwei-Wöchentliches Entwickler-Meeting:** Jeden ersten und dritten Dienstag im Monat, 20:00 Uhr MEZ/MESZ.
+* **Zwei-Wöchentliches Entwickler-Meeting:** Dienstags im zwei-wöchentlichen Rhythmus, 20:00 Uhr MEZ/MESZ.
 * **Wöchentliche DATEX-Spezifikations-Diskussion:** Jeden Montag, 20:00 Uhr MEZ/MESZ.
-* **Monatliches Management-Meeting:** DATUM, 20:00 Uhr MEZ/MESZ.
+* **Monatliches Management-Meeting:** Dienstag, DATUM, 20:00 Uhr MEZ/MESZ.
