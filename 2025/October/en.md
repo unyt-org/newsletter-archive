@@ -46,7 +46,7 @@ A **tutorial video series** is currently in production - it will guide students 
 * Building a **full-stack web app** with UIX and DATEX
 * Understanding the principles of **reactivity and distributed computation**
 
-Stay tuned - the tutorials will be published soon and available to everyone.
+Stay tuned - the tutorials will get published soon and will be available to everyone.
 
 ---
 
