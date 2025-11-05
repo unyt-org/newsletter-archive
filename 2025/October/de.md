@@ -19,7 +19,8 @@ Die DATEX Workbench soll zu einer **Tooling- und Debugging-Umgebung** innerhalb 
 * Live-Daten zu filtern, anzupassen und zu debuggen
 * **Eingehende und ausgehende DXB-Blöcke** abzufangen und deren Inhalte einzusehen
 * Eine **REPL, Sprachunterstützung** und eine integrierte **DATEX IDE** zu nutzen
-* Direkte Integration in **Browser Devtools** und **IDEs wie VS Code**
+
+In Zukunft soll es auch eine direkte Integration in **Browser Devtools** sowie in **IDEs wie VS Code** geben.
 
 Oliver arbeitet derzeit an der **Architektur und dem Window-Management-System** und unterstützt zusätzlich unser Kernteam bei **Koordination und Mentoring**.
 Wir freuen uns sehr, alle drei an Bord zu haben – herzlich willkommen im Team!
