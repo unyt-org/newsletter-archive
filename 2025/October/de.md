@@ -4,7 +4,7 @@ Liebe Leserinnen und Leser,
 
 den letzten Monat haben wir intensiv daran gearbeitet, die Grenzen dessen zu erweitern, was DATEX und UIX leisten können – von der Umstrukturierung unseres Codebases für intelligentere Typinferenz bis hin zur Erweiterung des Ökosystems mit einem völlig neuen Tool: der **DATEX Workbench**.
 
-Auch außerhalb der Entwicklung konnten wir so beim [ITCS München](https://messe-muenchen.de/de/veranstaltungen/itcs-2025.html) mit neuen Talenten in Kontakt treten.
+Auch außerhalb der Entwicklung konnten wir beim [ITCS München](https://messe-muenchen.de/de/veranstaltungen/itcs-2025.html) mit neuen Talenten in Kontakt treten.
 
 ---
 
