@@ -104,7 +104,7 @@ Insbesondere zählen zu unserer Vision 2026:
 
 * **DATEX Core Prototyp** – Ein erster verlässlich nutzbarer öffentlicher Prototyp des neuen DATEX Core mit feinjustierter Sprachsemantik.
 * **DATEX Core JS** – Ein erstes Release unserer JavaScript-Bindings für den neuen DATEX Core
-* **UIX v2 Prototyp** – Die nächste UIX-Generation, die DATEX mit einem Full-Stack-Web-Framework vereint und somit verlässliche Cross-Network-Reaktivität, Backend-Imports und DOM-Rendering bietet.
+* **UIX Next-Gen Prototyp** – Die nächste UIX-Generation, die DATEX mit einem Full-Stack-Web-Framework vereint und somit verlässliche Cross-Network-Reaktivität, Backend-Imports und DOM-Rendering bietet.
 
 # Kommende Veranstaltungen
 
