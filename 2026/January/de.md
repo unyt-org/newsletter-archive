@@ -8,7 +8,7 @@ Mit über 120.000 Zeilen Rust-Code in diesem Bereich allein arbeiten wir mit Hoc
 
 # Offene Jahreshauptversammlung: 14. Februar, 11 Uhr
 
-Wir laden alle herzlich zur öffentlichen Jahreshauptversammlung ein, wo ein umfassender Rückblick auf das Jahr 2025 gegeben und die zukünftige Agenda des Vereins beschlossen wird.
+Wir laden alle herzlich zur öffentlichen Jahreshauptversammlung ein, in der ein umfassender Rückblick auf das Jahr 2025 gegeben und die zukünftige Agenda des Vereins beschlossen wird.
 
 | | |
 |-|-|
