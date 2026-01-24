@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//unyt.org e.V.//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:jahreshauptversammlung-2026@unyt.org
+DTSTAMP:20260124T193511Z
+SUMMARY:unyt.org e.V. Jahreshauptversammlung
+DTSTART;TZID=Europe/Berlin:20260214T110000
+DTEND;TZID=Europe/Berlin:20260214T123000
+LOCATION:https://meet.digitalelehre.org/unyt-org
+DESCRIPTION:1. State of the Unyt (SOTU)\n2. Vision 2026\n3. Planung für Q1/2026
+ORGANIZER;CN=unyt.org demokratische freie Netzwerktechnologien e.V.:MAILTO:team@unyt.org
+BEGIN:VALARM
+TRIGGER:-P2D
+DESCRIPTION:Erinnerung an unyt.org e.V. Jahreshauptversammlung
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
