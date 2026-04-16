@@ -37,7 +37,7 @@ The structural changes were made possible by the previous owner of the `datex` n
 
 ## [DATEX Workbench](https://github.com/unyt-org/datex-workbench)
 
-* **Network interfaces view.** The first live network interfaces panel has been built, showing active WebSocket and TCP connections with real-time updates. This gives developers direct visibility into the communication layer of a running DATEX endpoint.
+* **Network interfaces view.** The first live network interfaces panel has been built, showing active socket connections with real-time updates. This gives developers direct visibility into the communication layer of a running DATEX endpoint.
 * **Script editor.** Work on an integrated DATEX script editor continues, expanding the Workbench into a more complete development and inspection environment.
 
 # Upcoming Events
