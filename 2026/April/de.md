@@ -29,7 +29,7 @@ Die strukturellen Änderungen wurden durch die freundliche Unterstützung des bi
 ## [DATEX](https://github.com/unyt-org/datex-core)
 
 * **Grundlegende Projektumstrukturierung.** Das DATEX Core Rust-Projekt wurde rund um einen zentralen `datex`-Workspace reorganisiert, der `core`- und `macro`-Crates sauber voneinander trennt.
-* **v0.0.11 veröffentlicht** – mit aktualisierten Makro-Abhängigkeiten, AST-Fixes und einer Reihe von Refactoring-Verbesserungen. Das vorherige **v0.0.10** lieferte ein umfassendes Refactoring der Wert- und Referenz-Ownership-Semantik sowie eine überarbeitete Crypto-API.
+* **v0.0.11 veröffentlicht** – mit aktualisierten Macro-Abhängigkeiten, AST-Fixes und einer Reihe von Refactoring-Verbesserungen. Das vorherige **v0.0.10** lieferte ein umfassendes Refactoring der Wert- und Referenz-Ownership-Semantik sowie eine überarbeitete Crypto-API.
 * **Neuer `range`-Datentyp.** Ein dedizierter Range-Typ für numerische Werte wurde in das DATEX-Typsystem eingeführt.
 * **[datex-web](https://github.com/unyt-org/datex-web)** – der JavaScript/TypeScript-Binding-Layer wurde offiziell von `datex-core-js` umbenannt, um seine Rolle als webspezifischer Layer besser widerzuspiegeln. Mit **v0.0.14** kamen Abhängigkeits-Updates und Crypto-Fixes. Die Arbeit an der plattformübergreifenden Pointer-Synchronisierung läuft und bleibt ein zentrales kurzfristiges Ziel.
 * **[datex-native](https://github.com/unyt-org/datex-native)** – eine neue dedizierte Crate für Desktop- und Server-Plattformen, die `datex-web` ergänzt – hat **v0.0.10** erreicht, mit einer verbesserten CI-Pipeline und Test-Workflows.
@@ -37,7 +37,7 @@ Die strukturellen Änderungen wurden durch die freundliche Unterstützung des bi
 
 ## [DATEX Workbench](https://github.com/unyt-org/datex-workbench)
 
-* **Netzwerkschnittstellen-Ansicht.** Das erste Live-Panel für Netzwerkschnittstellen wurde fertiggestellt. Es zeigt aktive WebSocket- und TCP-Verbindungen mit Echtzeit-Updates und gibt Entwicklerinnen und Entwicklern damit direkten Einblick in die Kommunikationsschicht eines laufenden DATEX-Endpoints.
+* **Netzwerkschnittstellen-Ansicht.** Das erste Live-Panel für Netzwerkschnittstellen wurde fertiggestellt. Es zeigt aktive Socket-Verbindungen mit Echtzeit-Updates und gibt Entwicklerinnen und Entwicklern damit direkten Einblick in die Kommunikationsschicht eines DATEX-Endpoints.
 * **Script-Editor.** Die Arbeit an einem integrierten DATEX-Script-Editor wird fortgesetzt und baut die Workbench schrittweise zu einer vollständigen Entwicklungs- und Inspektionsumgebung aus.
 
 # Kommende Veranstaltungen
